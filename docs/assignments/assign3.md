@@ -1,3 +1,9 @@
+---
+title: Assignment 3 - TidyCensus
+permalink: /assignments/assign3/
+markdown: false
+---
+
 <div class='tableauPlaceholder' id='viz1773194233868' style='position: relative'>
   <noscript>
     <a href='#'>
@@ -22,24 +28,7 @@
 <script type='text/javascript'>
   var divElement = document.getElementById('viz1773194233868');
   var vizElement = divElement.getElementsByTagName('object')[0];
-  if (divElement.offsetWidth > 800) {
-    vizElement.style.minWidth='420px';
-    vizElement.style.maxWidth='650px';
-    vizElement.style.width='100%';
-    vizElement.style.minHeight='587px';
-    vizElement.style.maxHeight='887px';
-    vizElement.style.height=(divElement.offsetWidth*0.75)+'px';
-  } else if (divElement.offsetWidth > 500) {
-    vizElement.style.minWidth='420px';
-    vizElement.style.maxWidth='650px';
-    vizElement.style.width='100%';
-    vizElement.style.minHeight='587px';
-    vizElement.style.maxHeight='887px';
-    vizElement.style.height=(divElement.offsetWidth*0.75)+'px';
-  } else {
-    vizElement.style.width='100%';
-    vizElement.style.height='977px';
-  }
+  if (divElement.offsetWidth > 800) { vizElement.style.minWidth='420px'; vizElement.style.maxWidth='650px'; vizElement.style.width='100%'; vizElement.style.minHeight='587px'; vizElement.style.maxHeight='887px'; vizElement.style.height=(divElement.offsetWidth*0.75)+'px'; } else if (divElement.offsetWidth > 500) { vizElement.style.minWidth='420px'; vizElement.style.maxWidth='650px'; vizElement.style.width='100%'; vizElement.style.minHeight='587px'; vizElement.style.maxHeight='887px'; vizElement.style.height=(divElement.offsetWidth*0.75)+'px'; } else { vizElement.style.width='100%'; vizElement.style.height='977px'; }
   var scriptElement = document.createElement('script');
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
   vizElement.parentNode.insertBefore(scriptElement, vizElement);
