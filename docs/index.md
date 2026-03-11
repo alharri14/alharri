@@ -18,6 +18,6 @@ Use the buttons below to see the course  tasks, exercises, assignments, and fina
 <div class="button-container">
   <a href="/seeger5880-2026/tasks/" class="btn btn--primary">View Tasks</a>
   <a href="/seeger5880-2026/exercises/" class="btn btn--primary">View Exercises</a>
-  <a href="/seeger5880-2026/assignments/" class="btn btn--primary">View Assignments</a>
+  <a href="/alharri/assignments/" class="btn btn--primary">View Assignments</a>
   <a href="/seeger5880-2026/final-project/" class="btn btn--primary">View Final Project</a>
 </div>
