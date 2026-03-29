@@ -1,7 +1,7 @@
 
 ---
 layout: single
-title: "Your Page Title"
+title: "Texas Population in 2020 vs 2026"
 ---
 
 <div class='tableauPlaceholder' id='viz1772116251859' style='position: relative'>
