@@ -3,8 +3,8 @@ title: "Final Project Proposal"
 permalink: /final-project/proposal/
 ---
 
-Final Project Proposal information can be located here.
-Alexa Harrison, 4/7/25 
+Alexa Harrison
+4/7/25 
 Project Title: Google Search and Sense Making: Mapping Relationship Related Queries in Google Trends 
  
 
