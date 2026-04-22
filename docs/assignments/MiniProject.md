@@ -1,8 +1,8 @@
 
 ---
-layout: single
+
 title: "Iowa Retail Spending"
-classes: wide
+
 ---
 
 <div class="tableau-embed">
