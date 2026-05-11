@@ -4,20 +4,22 @@ title: "Google Search and Sense Making"
 permalink: /final-project/dashboard/
 ---
 
-<div class='tableauPlaceholder' id='viz1778509377511' style='position: relative'>
+<div class='tableauPlaceholder' id='viz1778510344721' style='position: relative'>
   <noscript>
     <a href='#'>
       <img alt='Google Search and Sense Making'
-           src='https://public.tableau.com/static/images/2C/2CMMNF29Y/1_rss.png'
+           src='https://public.tableau.com/static/images/Go/GoogleSearchandSenseMakingRelationshipRelatedQueries/Story1/1_rss.png'
            style='border: none' />
     </a>
   </noscript>
   <object class='tableauViz' style='display:none;'>
     <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />
     <param name='embed_code_version' value='3' />
-    <param name='path' value='shared/2CMMNF29Y' />
+    <param name='site_root' value='' />
+    <param name='name' value='GoogleSearchandSenseMakingRelationshipRelatedQueries/Story1' />
+    <param name='tabs' value='no' />
     <param name='toolbar' value='yes' />
-    <param name='static_image' value='https://public.tableau.com/static/images/2C/2CMMNF29Y/1.png' />
+    <param name='static_image' value='https://public.tableau.com/static/images/Go/GoogleSearchandSenseMakingRelationshipRelatedQueries/Story1/1.png' />
     <param name='animate_transition' value='yes' />
     <param name='display_static_image' value='yes' />
     <param name='display_spinner' value='yes' />
@@ -27,7 +29,7 @@ permalink: /final-project/dashboard/
   </object>
 </div>
 <script type='text/javascript'>
-  var divElement = document.getElementById('viz1778509377511');
+  var divElement = document.getElementById('viz1778510344721');
   var vizElement = divElement.getElementsByTagName('object')[0];
   if (divElement.offsetWidth > 800) {
     vizElement.style.minWidth = '420px';
