@@ -1,8 +1,8 @@
 
 ---
 
-**Assignment 1
-**---
+title: Assignment 1 - Tableau Dashboard
+
 
 <div class='tableauPlaceholder' id='viz1772116251859' style='position: relative'>
   <noscript>
