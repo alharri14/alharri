@@ -1,7 +1,9 @@
 
 ---
-layout: single
-title: "Texas Population in 2020 vs 2026"
+
+**Texas Population in 2020 vs 2026 
+**
+This visualization illustrates an increase population density in Texas within a 6 year period.
 ---
 
 <div class='tableauPlaceholder' id='viz1772116251859' style='position: relative'>
