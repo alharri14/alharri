@@ -1,8 +1,10 @@
 ---
 title: "Assignment 1 - Tableau Dashboard"
 permalink: /assignments/assign1/
-
+layout: page
 ---
+
+<div style="width: 100%; min-height: 680px; overflow: visible;">
 <div class='tableauPlaceholder' id='viz1772116251859' style='position: relative'>
   <noscript>
     <a href='#'>
@@ -53,3 +55,4 @@ permalink: /assignments/assign1/
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
   vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
+</div>
