@@ -2,7 +2,8 @@
 layout: splash
 title: "Alexa Harrison – LA 5880"
 header:
-  overlay_color: "#1a1a1a"
+  overlay_image: /assets/images/cover.jpg
+  overlay_filter: 0.95
 excerpt: "LA5880 – Web Mapping Portfolio"
 custom_head: head/custom.html
 ---
