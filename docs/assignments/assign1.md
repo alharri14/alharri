@@ -1,7 +1,7 @@
 ---
 title: "Assignment 1 - Tableau Dashboard"
 permalink: /assignments/assign1/
-layout: page
+layout: default
 ---
 
 <div style="width: 100%; min-height: 680px; overflow: visible;">
