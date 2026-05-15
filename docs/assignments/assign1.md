@@ -1,4 +1,3 @@
-
 ---
 title: "Assignment 1 - Tableau Dashboard"
 permalink: /assignments/assign1/
