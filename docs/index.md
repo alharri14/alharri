@@ -6,12 +6,11 @@ header:
 excerpt: "LA5880 – Web Mapping Portfolio"
 custom_head: head/custom.html
 ---
-
 ## Welcome
 
 This site contains my coursework, exercises, and final project for **LA5880**.
 
-Use the buttons below to see the course  tasks, exercises, assignments, and final project or start by going to learn more <a href = "about">about me</a> me.
+Use the buttons below to see the course  tasks, exercises, assignments, and final project or start by going to learn more <a href = "about">about me</a>
 
 <div class="button-container">
 <a href="/alharri/assignments/" class="btn btn--primary">View Assignments</a>
