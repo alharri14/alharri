@@ -4,8 +4,11 @@ permalink: /assignments/assign3/
 markdown: false
 ---
 
-<div class='tableauPlaceholder' id='viz1773194233868' style='position: relative'>
-  <noscript>
+<div class='tableauPlaceholder'
+     id='viz1773194233868'
+     style='position:relative; width:100%; max-width:1400px; margin:auto;'>
+  
+<noscript>
     <a href='#'>
       <img alt='Iowa Young Adults Ages 20-24' src='https://public.tableau.com/static/images/GH/GHXDNHJHR/1_rss.png' style='border: none' />
     </a>
@@ -26,10 +29,16 @@ markdown: false
   </object>
 </div>
 <script type='text/javascript'>
-  var divElement = document.getElementById('viz1773194233868');
-  var vizElement = divElement.getElementsByTagName('object')[0];
-  if (divElement.offsetWidth > 800) { vizElement.style.minWidth='420px'; vizElement.style.maxWidth='650px'; vizElement.style.width='100%'; vizElement.style.minHeight='587px'; vizElement.style.maxHeight='887px'; vizElement.style.height=(divElement.offsetWidth*0.75)+'px'; } else if (divElement.offsetWidth > 500) { vizElement.style.minWidth='420px'; vizElement.style.maxWidth='650px'; vizElement.style.width='100%'; vizElement.style.minHeight='587px'; vizElement.style.maxHeight='887px'; vizElement.style.height=(divElement.offsetWidth*0.75)+'px'; } else { vizElement.style.width='100%'; vizElement.style.height='877px'; }
-  var scriptElement = document.createElement('script');
-  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
-  vizElement.parentNode.insertBefore(scriptElement, vizElement);
+var divElement = document.getElementById('viz1773194233868');
+var vizElement = divElement.getElementsByTagName('object')[0];
+
+vizElement.style.width='100%';
+vizElement.style.height='900px';   // make taller if needed
+vizElement.style.maxWidth='1400px'; // increase width
+vizElement.style.margin='0 auto';
+
+var scriptElement = document.createElement('script');
+scriptElement.src='https://public.tableau.com/javascripts/api/viz_v1.js';
+vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
+
