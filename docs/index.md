@@ -1,10 +1,10 @@
 ---
 layout: splash
-title: "Alexa Harrison - LA 5880"
-
+title: "Alexa Harrison – LA 5880"
+header:
+  overlay_color: "#1a1a1a"
 excerpt: "LA5880 – Web Mapping Portfolio"
-custom_head: head/custom.html 
-
+custom_head: head/custom.html
 ---
 
 ## Welcome
