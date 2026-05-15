@@ -1,10 +1,10 @@
 
 ---
-
-title: Assignment 1 - Tableau Dashboard
+---
+title: "Assignment 1 - Tableau Dashboard"
 permalink: /assignments/assign1/
 markdown: false
-
+---
 <div class='tableauPlaceholder' id='viz1772116251859' style='position: relative'>
   <noscript>
     <a href='#'>
