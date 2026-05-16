@@ -3,7 +3,7 @@ title: "Final Project Data Overview"
 layout: default
 ---
 
-++Emotional Processing**
+**Emotional Processing**
 
 
 **["why doesn't he like me]( https://trends.google.com/trends/explore?date=today%205-y&geo=US&q=why%20doesnt%20he%20like%20me)**
