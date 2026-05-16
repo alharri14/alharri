@@ -21,14 +21,18 @@ Google trends (trends.google.com): Primary data collection for downloading state
 R Studio  
  
 
-Data
-Google Trend Data from 2025. Terms used: (“should i text him”, “is this a red flag”, “should we break up?”), (“why don't I have friends?” “why do I not have a relationship”), and social infrastructure (“events near me", "run club”). 
+Data**
+Google Trend Data from 2021 - 2026. 
+Terms used:
+Relationship Guidance:“red flags in relationships”, “why do girls?”,  “should i break up with her” 
+
+
+
+**Process/methods** Data Collection, Data cleaning, Data analysis  
  
 
-Process/methods: Data Collection, Data cleaning, Data analysis  
- 
+**Inspiration**
 
-Inspiration 
 Map Shows which states have the most influencers: https://www.newsweek.com/map-shows-which-states-most-influencers-1917710 
 Predicting Loneliness through online digital footprints 
 https://sph.rutgers.edu/news/predicting-loneliness-through-online-digital-footprints 
@@ -41,12 +45,15 @@ https://mental.jmir.org/2025/1/e60754?utm_source=chatgpt.com
 
  
 
-Potential Challenges
+**Potential Challenges**
+
+
 Google Trend data is limited and not absolute. Data availability by state can vary and may not reflect nuances in individual cities. 
 Choosing meaningful and specific search terms for communities may show incomplete or suppressed data 
 
 
-Timeline for completion
+**Timeline for Completion**
+
 Week 1: Input search terms, download CSV data, data cleaning in R Studio 
 Week 2: Begin builiding Tableau map and dashboard 
 Week 3: Finalize dashboard design, add tool tips and interactivity  
