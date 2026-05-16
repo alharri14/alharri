@@ -3,9 +3,8 @@ title: "Final Project Proposal"
 permalink: /final-project/proposal/
 ---
 
-Alexa Harrison
-4/7/25 
-Project Title: Google Search and Sense Making: Mapping Relationship Related Queries in Google Trends 
+
+Google Search and Sense Making: Mapping Relationship Related Queries in Google Trends 
  
 
 Abstract: This project aims to examines how American utilize Google Search as a primary tool for navigating and understanding social connection. Mapping these searches aims to measures concentrations of isolation and to consider what factors could contribute to higher rates of internet reliance. By analyzing Google Trend data from 2020 to 2025, this project will identify variations of intentional help seeking search behavior focusing on queries related to three themes: relationship guidance (“should i text him”, “is this a red flag”, “should we break up?”), emotional processing (“why don't I have friends?” “why do I not have a relationship”),social infrastructure “events near me”, “third spaces” and “run clubs”. The resulting map visualizes emerging trends and gaps in local social support. By transforming abstract search data into a map, we can better visualize national outcomes and identify specific areas and factors that lead to challenges while seeking belonging. Ultimately, this visualization is intended to make an underrepresented aspect of mental health visible and identify gaps in socialization. 
