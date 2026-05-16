@@ -65,8 +65,9 @@ Kaye, J. (2024, June 26). Map shows which states have the most influencers. News
 
 Loch, A. A., & Kotov, R. (2025). Promises and pitfalls of internet search data in mental health: Critical review. *JMIR Mental Health*, *12*, e60754. https://doi.org/10.2196/60754
 
-Individual web query histories hold massive predictive power for early diagnostic tracking, yet researchers must successfully navigate strict user privacy safeguards and data integration obstacles (Loch & Kotov, 2025).
- 
+Wiseman, E. (2026, January 30). Five of the year’s most Googled relationship questions, answered. Vogue Australia. https://www.vogue.com.au/culture/features/five-of-the-years-most-googled-relationship-questions-answered/news-story/ad75277f6780e925c49e95081b744d80 
+
+Rodriguez, S. (2022, October 27). Reasoning: How digital technologies influence decision making and judgment. Institute for Security and Technology. https://securityandtechnology.org/virtual-library/report/reasoning-how-digital-technologies-influence-decision-making-and-judgment/
 
 **Potential Challenges**
 
