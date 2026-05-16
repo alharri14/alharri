@@ -28,11 +28,30 @@ R Studio
 
 Google Trend Data from 2021 - 2026. 
 
+**Relationship Guidance**:
 
-Terms used:
+* “red flags in relationships”
 
-Relationship Guidance:“red flags in relationships”, “why do girls?”,  “should i break up with her” 
+* “why do girls?”
 
+* “should i break up with her” 
+
+**Emotional Processing**:
+
+* "why doesn't he like me"
+
+* "no one likes me"
+
+* "why don't I have friends"
+
+
+**Social Infrastructure**
+
+* "events near me"
+  
+* "places to meet people"
+
+* "run club near me"
 
 
 **Process/methods** 
@@ -42,24 +61,18 @@ Data Collection, Data cleaning, Data analysis
 
 **Inspiration**
 
-Map Shows which states have the most influencers: https://www.newsweek.com/map-shows-which-states-most-influencers-1917710 
-Predicting Loneliness through online digital footprints 
-https://sph.rutgers.edu/news/predicting-loneliness-through-online-digital-footprints 
+Kaye, J. (2024, June 26). Map shows which states have the most influencers. Newsweek. https://www.newsweek.com/map-shows-which-states-most-influencers-1917710
 
+Loch, A. A., & Kotov, R. (2025). Promises and pitfalls of internet search data in mental health: Critical review. *JMIR Mental Health*, *12*, e60754. https://doi.org/10.2196/60754
 
-Five of the Year’s Most Google Relationship Questions  
-https://www.vogue.com.au/culture/features/five-of-the-years-most-googled-relationship-questions-answered/news-story/ad75277f6780e925c49e95081b744d80 
-
-
-Promises and Pitfalls of Internet Search Data in Mental Health: a Critical Review 
-https://mental.jmir.org/2025/1/e60754?utm_source=chatgpt.com 
-
+Individual web query histories hold massive predictive power for early diagnostic tracking, yet researchers must successfully navigate strict user privacy safeguards and data integration obstacles (Loch & Kotov, 2025).
  
 
 **Potential Challenges**
 
 Google Trend data is limited and not absolute. Data availability by state can vary and may not reflect nuances in individual cities. 
-Choosing meaningful and specific search terms for communities may show incomplete or suppressed data 
+Choosing specific search terms for communities may show incomplete or suppressed data. 
+
 
 
 **Timeline for Completion**
